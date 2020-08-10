@@ -101,7 +101,7 @@ There are several ways to do so but the best and easiest way is to **sample rast
 Let's understand what that means - 
 
 1. Suppose we have the raster file of Digital Elevation which looks something like this ->
-![Grav](res/d8-9s.jpeg)
+![Grav](https://github.com/Xavian-Brooker/Gawler-Unearthed/blob/master/res/d8-9s.jpeg)
 
 2. Here, we want to know the exact values of gravity at certain points of interests which I obtain from my Geochemical data. *Let's say I have a csv with locations stating if they have mineralization or not.*  
 
@@ -110,7 +110,7 @@ Let's understand what that means -
 4. Then we'll include the `.csv` file containing the vector data by selecting Delimited Text Layer and then finding the desired file.
 
 5. If both the layers have the same CRS then the Vectors will properly overlay over the rasters. It will look something like this :
-![Overlayed](res/sampling_overlayed.jpeg)
+![Overlayed](https://github.com/Xavian-Brooker/Gawler-Unearthed/blob/master/res/sampling_overlayed.jpeg)
 
 6. Then by using the Sampling Tool ([Install it]() if you don't have already), you can very easily select the features you want and sample the raw values at the desired points and save to a csv.
 
