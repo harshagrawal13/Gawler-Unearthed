@@ -112,7 +112,7 @@ Let's understand what that means -
 5. If both the layers have the same CRS then the Vectors will properly overlay over the rasters. It will look something like this :
 ![Overlayed](https://github.com/Xavian-Brooker/Gawler-Unearthed/blob/master/res/sampling_overlayed.jpeg)
 
-6. Then by using the Sampling Tool ([Install it]() if you don't have already), you can very easily select the features you want and sample the raw values at the desired points and save to a csv.
+6. Then by using the Sampling Tool (Install it if you don't have already), you can very easily select the features you want and sample the raw values at the desired points and save to a csv.
 
 You can always read more about Point Sampling [Here](https://www.qgistutorials.com/en/docs/sampling_raster_data.html).
 
